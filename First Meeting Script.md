@@ -11,7 +11,8 @@ A Ideia é fazer as perguntas como base, mas montar uma resposta em conjunto com
 - Como será feito a Cartilha? Somente fotos, fotos e textos, ou links para sites que possuam essas cartilhas?
 - Como é feito os eventos do calendário.
 - Os links dos jogos são da Google Play, sites online?
-- É necessário ter uma área para mostrar o mapa e estatísticas sobre os incidentes
+- É necessário ter uma área para mostrar o mapa e estatísticas sobre os incidentes.
+- Quais os dados de administradores que devemos guardar, haverá mais de um? Tem chance de mudar a administração?
 
 ## Estilo/Design
 - O projeto tem Logo/Identidade Visual.

@@ -1,12 +1,5 @@
 # Requisitos do Aplicativo 'Rio do Campo Limpo'
 
-## Objetivo
-O objetivo do aplicativo é permitir que os usuários contribuam com o monitoramento do descarte irregular de resíduos nas redondezas do Rio do Campo a partir do envio de "denúncias" que podem conter descrição, foto, e localização da ocorrência.
-
-## Aplicativos semelhantes:
-- [Urubu Mobile](https://play.google.com/store/apps/details?id=br.com.brainweb.tetra.ufla.urubu)
-- [Denúncia Ambiente](https://play.google.com/store/apps/details?id=br.gov.sp.denunciaambiental)
-
 ## Área Administrativa (WEB)
 
 - Deverá exister uma área para gerenciar (CRUD) os resíduos da cartilha. Um resíduo terá: **nome***, **descrição** e **local de descarte**.
@@ -48,3 +41,10 @@ O projeto já tem logo e ela será disponibilizada pelos próprios clientes.
 
 ### Paleta de Cores
 As cores do aplicativo devem seguir o padrão de cores utilizado na logo do projeto.
+
+
+## Apêndice:
+
+## Aplicativos Relacionados:
+- [Urubu Mobile](https://play.google.com/store/apps/details?id=br.com.brainweb.tetra.ufla.urubu)
+- [Denúncia Ambiente](https://play.google.com/store/apps/details?id=br.gov.sp.denunciaambiental)

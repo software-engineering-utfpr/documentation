@@ -49,6 +49,6 @@ ___
 
 ## Apêndice:
 
-## Aplicativos Relacionados:
+Aplicativos Relacionados:
 - [Urubu Mobile](https://play.google.com/store/apps/details?id=br.com.brainweb.tetra.ufla.urubu)
 - [Denúncia Ambiente](https://play.google.com/store/apps/details?id=br.gov.sp.denunciaambiental)

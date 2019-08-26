@@ -12,6 +12,8 @@
 
 - Deverá existir uma área para gerar relatórios de denúncias dos usuários. Um relatório é uma lista de ocorrências.
 
+___
+
 ## APP
 
 ### Sistema de Login
@@ -33,6 +35,7 @@ O aplicativo terá uma área de calendário para serem inseridos datas de evento
 ### Jogos
 O aplicativo terá uma área com **links de jogos** educativos destinado ao público infantil.
 
+___
 
 ## Identidade Visual
 
@@ -42,6 +45,7 @@ O projeto já tem logo e ela será disponibilizada pelos próprios clientes.
 ### Paleta de Cores
 As cores do aplicativo devem seguir o padrão de cores utilizado na logo do projeto.
 
+___
 
 ## Apêndice:
 

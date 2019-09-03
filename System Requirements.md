@@ -8,8 +8,6 @@
 
 - Deverá exister uma área para gerenciar (CRUD) os jogos. Um jogo terá: **nome*** e **link***.
 
-- Deverá exister uma área para gerenciar (CRUD) as denúncias. Uma denúncia terá: **item***, **local***, **data***, **foto** e **descrição**.
-
 - Deverá existir uma área para gerar relatórios de denúncias dos usuários. Um relatório é uma lista de ocorrências.
 
 ___

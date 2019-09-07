@@ -1,6 +1,6 @@
 # Termo de Abertura do Projeto
 
-###Projeto: 
+### Projeto: 
 Monitoramento Ambiental da bacia hidrográfica do rio do Campo: APP Rio do Campo Limpo
 
 **Propósito:** Este projeto foi criado para auxiliar na qualidade da bacia hidrográfica da cidade de Campo Mourão, através de denúncias com capturas de imagens de um aplicativo que deverá ser desenvolvido.

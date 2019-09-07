@@ -24,24 +24,28 @@ Este projeto tem como objetivo o monitoramento das bacias hidrográficas da cida
     - Gerar uma lista de ocorrencias/denúncias dos usuários.  
   #### APP
     - 
-**Escopo do projeto:** Este projeto inclui a entrega de dois sistemas funcionais, um aplicativo para realização das denúncias e um sistema Web para filtragem e repasse delas. Todo o trabalho será realizado na universidade tecnológica federal do paraná, na disciplina de Engenharia de Software 2, com supervisão do professor Reginaldo Ré. Este projeto será concluído quando a última entrega for feita no dia 02(dois) de Dezembro, em conjunto com toda a documentação necessária.
+### Escopo do projeto
+Este projeto inclui a entrega de dois sistemas funcionais, um aplicativo para realização das denúncias e um sistema Web para filtragem e repasse delas. Todo o trabalho será realizado na universidade tecnológica federal do paraná, na disciplina de Engenharia de Software 2, com supervisão do professor Reginaldo Ré. Este projeto será concluído quando a última entrega for feita no dia 02(dois) de Dezembro, em conjunto com toda a documentação necessária.
 
-**Principais riscos do projeto:** Os seguintes riscos para o projeto foram identificados. O gerente irá determinar e empregar as estratégias para mitigar/evitar riscos conforme apropriado para minimizar a probabilidade desses riscos:
+### Principais riscos do projeto
+Os seguintes riscos para o projeto foram identificados. O gerente irá determinar e empregar as estratégias para mitigar/evitar riscos conforme apropriado para minimizar a probabilidade desses riscos:
 
 - falta de disponibilidade de servidores;
 - disponibilidade de tempo dos envolvidos.
 
-**Principais Entregas:** As seguintes entregas devem ser cumpridas para completar com sucesso o projeto. Quaisquer mudanças a essas entregas devem ser autorizadas pelo patrocinador do projeto.
+### Principais Entregas
+As seguintes entregas devem ser cumpridas para completar com sucesso o projeto. Quaisquer mudanças a essas entregas devem ser autorizadas pelo patrocinador do projeto.
 
 - Aplicativo mobile totalmente funcional;
 - Sistema Web que consiga se comunicar com o aplicativo.
 
-**Cronograma de marcos:**
+### Cronograma de marcos
 - Extração de requisitos - 23/08/2019
 - Entrega parcial - 01/10/2019
 - Entrega final - 02/12/2019
 
-**Requisitos para aprovação/aceitação do projeto:**
+### Requisitos para aprovação/aceitação do projeto
 O sucesso para o projeto será atingido quando o o aplicativo e o sistema forem devidamente entregues, totalmente funcionais e com toda a documentação necessária dentro do prazo previsto. O sucesso será determinado pelo patrocinador do projeto que também irão autorizar a conclusão do mesmo.
 
-**Gerente do projeto:** Neste projeto todos os membros envolvidos serão gerentes de projeto, todos terão a função de gerenciar a si mesmos além de cada um ter sido encarregado de gerenciar alguma das partes do projeto. O Sr Gabriel David Sacca está responsável por gerenciar a parte do app deste projeto, o Sr Lucas de Santana Rocha está responsável pela documentação, o Sr Lucas Ribeiro pelas api’s utilizadas, e o Sr Vitor bueno de Camargo pela parte web. Cada gerente será responsabilizado caso haja falha em sua área de gerência, e todos os membros envolvidos atuarão em cada uma das partes acima citadas.
+### Gerente do projeto
+Neste projeto todos os membros envolvidos serão gerentes de projeto, todos terão a função de gerenciar a si mesmos além de cada um ter sido encarregado de gerenciar alguma das partes do projeto. O Sr Gabriel David Sacca está responsável por gerenciar a parte do app deste projeto, o Sr Lucas de Santana Rocha está responsável pela documentação, o Sr Lucas Ribeiro pelas api’s utilizadas, e o Sr Vitor bueno de Camargo pela parte web. Cada gerente será responsabilizado caso haja falha em sua área de gerência, e todos os membros envolvidos atuarão em cada uma das partes acima citadas.

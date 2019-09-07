@@ -1,4 +1,7 @@
-**Projeto:** Monitoramento Ambiental da bacia hidrográfica do rio do Campo: APP Rio do Campo Limpo
+# Termo de Abertura do Projeto
+
+###Projeto: 
+Monitoramento Ambiental da bacia hidrográfica do rio do Campo: APP Rio do Campo Limpo
 
 **Propósito:** Este projeto foi criado para auxiliar na qualidade da bacia hidrográfica da cidade de Campo Mourão, através de denúncias com capturas de imagens de um aplicativo que deverá ser desenvolvido.
 
@@ -11,11 +14,14 @@
 - Implementar todos os requisitos a serem extraídos;
 - Entregar nas datas estipuladas as funcionalidades até lá definidas.
 
-**Requisitos do projeto:** Este projeto deve atender a seguinte lista de requisitos para alcançar o sucesso:
-- Será necessária uma pessoa com disponibilidade de horários para filtrar as mensagens que serão enviadas para as autoridades competentes;
-- Será necessário a disponibilidade de um servidor que hospede tanto o aplicativo, quanto a parte web que será desenvolvida.
-Requisitos adicionais podem ser acrescentados conforme necessário, com a aprovação do patrocinador do projeto, conforme o mesmo avançar.
-
+**Requisitos do projeto:** 
+  - **WEB**
+    - Criar/Vizualizar/Atualizar/Remover cartilhas de resíduos (utilizadas para informar maneiras corretas de descarte).
+    - Criar/Vizualizar/Atualizar/Remover eventos do calendário.
+    - Criar/Vizualizar/Atualizar/Remover Jogos educativos(Links).
+    - Gerar uma lista de ocorrencias/denúncias dos usuários.  
+  - **APP**
+    - 
 **Escopo do projeto:** Este projeto inclui a entrega de dois sistemas funcionais, um aplicativo para realização das denúncias e um sistema Web para filtragem e repasse delas. Todo o trabalho será realizado na universidade tecnológica federal do paraná, na disciplina de Engenharia de Software 2, com supervisão do professor Reginaldo Ré. Este projeto será concluído quando a última entrega for feita no dia 02(dois) de Dezembro, em conjunto com toda a documentação necessária.
 
 **Principais riscos do projeto:** Os seguintes riscos para o projeto foram identificados. O gerente irá determinar e empregar as estratégias para mitigar/evitar riscos conforme apropriado para minimizar a probabilidade desses riscos:

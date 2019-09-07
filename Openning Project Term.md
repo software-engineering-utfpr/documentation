@@ -55,10 +55,13 @@ O sucesso para o projeto será atingido quando o o aplicativo e o sistema forem 
 ### Gerente do projeto
 Neste projeto todos os membros envolvidos serão gerentes de projeto, todos terão a função de gerenciar a si mesmos além de cada um ter sido encarregado de gerenciar alguma das partes do projeto. O Sr Gabriel David Sacca está responsável por gerenciar a parte do app deste projeto, o Sr Lucas de Santana Rocha está responsável pela documentação, o Sr Lucas Ribeiro pelas api’s utilizadas, e o Sr Vitor bueno de Camargo pela parte web. Cada gerente será responsabilizado caso haja falha em sua área de gerência, e todos os membros envolvidos atuarão em cada uma das partes acima citadas.
 
-## Definir o Escopo
+## Definição do escopo do projeto
 
-### Exclusões do Projeto
+### Exclusões do projeto
 - NÃO será implementado um componente "calendário", somente o CRUD para o gerenciamento dos eventos relacionados ao projeto. Os eventos serão exibidos na forma de "bunners".
 - NÂO serão implementados jogos na plataforma do app, somente listado os links para que os mesmos sejam acessados na Google Play e instalados no celular.
 - NÃO será estabelecido de nenhuma forma, a integração com o sistemas externos, como o da prefeitura ou de algum ouro órgão interessado pelas denúncias.
 - NÃO será possível editar o questionário atraés do aplicativo ou do sistema web, se assim desejarem, o questionário deverá ser editado através da plataforma do Google Forms.
+
+### Restrições do projeto
+- O projeto deve ser executado em um cronograma de 11 semanas.

@@ -16,16 +16,21 @@ Este projeto tem como objetivo o monitoramento das bacias hidrográficas da cida
 - Implementar todos os requisitos a serem extraídos;
 - Entregar nas datas estipuladas as funcionalidades até lá definidas.
 
-### Requisitos do projeto 
+### Requisitos do projeto.
   #### WEB
     - Criar/Vizualizar/Atualizar/Remover cartilhas de resíduos (utilizadas para informar maneiras corretas de descarte).
     - Criar/Vizualizar/Atualizar/Remover eventos do calendário.
     - Criar/Vizualizar/Atualizar/Remover Jogos educativos(Links).
-    - Gerar uma lista de ocorrencias/denúncias dos usuários.  
+    - Gerar uma lista de ocorrencias/denúncias dos usuários.
   #### APP
-    - 
+    - Registrar ocorrrência/denúncia dos usuários.
+    - Listar cartilhas "Onde descartar" cada tipo de material.
+    - Questionário - link que irá redirecionar o usuário para o Google Forms.
+    - Calendário - Área para exibir eventos.
+    - Exibir e linkar a lista de jogos gerenciadas pelo administrador no sistema WEB com os jogos na Google Play.
+    
 ### Escopo do projeto
-Este projeto inclui a entrega de dois sistemas funcionais, um aplicativo para realização das denúncias e um sistema Web para filtragem e repasse delas. Todo o trabalho será realizado na universidade tecnológica federal do paraná, na disciplina de Engenharia de Software 2, com supervisão do professor Reginaldo Ré. Este projeto será concluído quando a última entrega for feita no dia 02(dois) de Dezembro, em conjunto com toda a documentação necessária.
+Este projeto inclui a entrega de dois sistemas funcionais, um aplicativo para realização das denúncias e um sistema Web para filtragem e repasse delas. Este projeto será concluído quando a última entrega for feita no dia 02(dois) de Dezembro, em conjunto com toda a documentação necessária.
 
 ### Principais riscos do projeto
 Os seguintes riscos para o projeto foram identificados. O gerente irá determinar e empregar as estratégias para mitigar/evitar riscos conforme apropriado para minimizar a probabilidade desses riscos:
@@ -45,7 +50,7 @@ As seguintes entregas devem ser cumpridas para completar com sucesso o projeto. 
 - Entrega final - 02/12/2019
 
 ### Requisitos para aprovação/aceitação do projeto
-O sucesso para o projeto será atingido quando o o aplicativo e o sistema forem devidamente entregues, totalmente funcionais e com toda a documentação necessária dentro do prazo previsto. O sucesso será determinado pelo patrocinador do projeto que também irão autorizar a conclusão do mesmo.
+O sucesso para o projeto será atingido quando o o aplicativo e o sistema forem devidamente entregues, totalmente funcionais e com toda a documentação necessária dentro do prazo previsto. O sucesso será determinado pelo patrocinador do projeto que também irá autorizar a conclusão do mesmo.
 
 ### Gerente do projeto
 Neste projeto todos os membros envolvidos serão gerentes de projeto, todos terão a função de gerenciar a si mesmos além de cada um ter sido encarregado de gerenciar alguma das partes do projeto. O Sr Gabriel David Sacca está responsável por gerenciar a parte do app deste projeto, o Sr Lucas de Santana Rocha está responsável pela documentação, o Sr Lucas Ribeiro pelas api’s utilizadas, e o Sr Vitor bueno de Camargo pela parte web. Cada gerente será responsabilizado caso haja falha em sua área de gerência, e todos os membros envolvidos atuarão em cada uma das partes acima citadas.

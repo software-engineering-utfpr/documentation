@@ -18,16 +18,16 @@ Este projeto tem como objetivo o monitoramento das bacias hidrográficas da cida
 
 ### Requisitos do projeto.
   #### WEB
-    - Criar/Vizualizar/Atualizar/Remover cartilhas de resíduos (utilizadas para informar maneiras corretas de descarte).
-    - Criar/Vizualizar/Atualizar/Remover eventos do calendário.
-    - Criar/Vizualizar/Atualizar/Remover Jogos educativos(Links).
-    - Gerar uma lista de ocorrencias/denúncias dos usuários.
+  - Criar/Vizualizar/Atualizar/Remover cartilhas de resíduos (utilizadas para informar maneiras corretas de descarte).
+  - Criar/Vizualizar/Atualizar/Remover eventos do calendário.
+  - Criar/Vizualizar/Atualizar/Remover Jogos educativos(Links).
+  - Gerar uma lista de ocorrencias/denúncias dos usuários.
   #### APP
-    - Registrar ocorrrência/denúncia dos usuários.
-    - Listar cartilhas "Onde descartar" cada tipo de material.
-    - Questionário - link que irá redirecionar o usuário para o Google Forms.
-    - Calendário - Área para exibir eventos.
-    - Exibir e linkar a lista de jogos gerenciadas pelo administrador no sistema WEB com os jogos na Google Play.
+  - Registrar ocorrrência/denúncia dos usuários.
+  - Listar cartilhas "Onde descartar" cada tipo de material.
+  - Questionário - link que irá redirecionar o usuário para o Google Forms.
+  - Calendário - Área para exibir eventos.
+  - Exibir e linkar a lista de jogos gerenciadas pelo administrador no sistema WEB com os jogos na Google Play.
     
 ### Escopo do projeto
 Este projeto inclui a entrega de dois sistemas funcionais, um aplicativo para realização das denúncias e um sistema Web para filtragem e repasse delas. Este projeto será concluído quando a última entrega for feita no dia 02(dois) de Dezembro, em conjunto com toda a documentação necessária.
@@ -54,3 +54,11 @@ O sucesso para o projeto será atingido quando o o aplicativo e o sistema forem 
 
 ### Gerente do projeto
 Neste projeto todos os membros envolvidos serão gerentes de projeto, todos terão a função de gerenciar a si mesmos além de cada um ter sido encarregado de gerenciar alguma das partes do projeto. O Sr Gabriel David Sacca está responsável por gerenciar a parte do app deste projeto, o Sr Lucas de Santana Rocha está responsável pela documentação, o Sr Lucas Ribeiro pelas api’s utilizadas, e o Sr Vitor bueno de Camargo pela parte web. Cada gerente será responsabilizado caso haja falha em sua área de gerência, e todos os membros envolvidos atuarão em cada uma das partes acima citadas.
+
+## Definir o Escopo
+
+### Exclusões do Projeto
+- NÃO será implementado um componente "calendário", somente o CRUD para o gerenciamento dos eventos relacionados ao projeto. Os eventos serão exibidos na forma de "bunners".
+- NÂO serão implementados jogos na plataforma do app, somente listado os links para que os mesmos sejam acessados na Google Play e instalados no celular.
+- NÃO será estabelecido de nenhuma forma, a integração com o sistemas externos, como o da prefeitura ou de algum ouro órgão interessado pelas denúncias.
+- NÃO será possível editar o questionário atraés do aplicativo ou do sistema web, se assim desejarem, o questionário deverá ser editado através da plataforma do Google Forms.

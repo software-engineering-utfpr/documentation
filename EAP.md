@@ -51,7 +51,7 @@ SISTEMA RIO DO CAMPO LIMPO
 │   └─── APP
 │       │   Área de Exibição da Cartilha
 │       │   Área de Exibição dos Resíduos
-│       │   Área de Exibição de Outros Informações
+│       │   Área de Exibição de Outras Informações
 |
 │   └─── WEB
 │       │   Área Gerenciadora de Resíduos

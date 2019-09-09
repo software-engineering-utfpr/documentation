@@ -4,7 +4,7 @@
 ***Subarea Manager:*** Lucas de Santana Rocha
 
 ## List of Documents
-- [Openning Project Term](./01. Openning Project Term.md)
-- [First Meeting Script](./02. First Meeting Script.md)
-- [System Requirements](./03. System Requirements.md)
-- [EAP](./04. EAP.md)
+- [x] [Openning Project Term](https://github.com/software-engineering-utfpr/documentation/blob/master/01.%20Openning%20Project%20Term.md)
+- [x] [First Meeting Script](https://github.com/software-engineering-utfpr/documentation/blob/master/02.%20First%20Meeting%20Script.md)
+- [x] [System Requirements](https://github.com/software-engineering-utfpr/documentation/blob/master/03.%20System%20Requirements.md)
+- [x] [EAP](https://github.com/software-engineering-utfpr/documentation/blob/master/04.%20EAP.md)

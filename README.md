@@ -8,4 +8,4 @@
 - [x] [First Meeting Script](https://github.com/software-engineering-utfpr/documentation/blob/master/02.%20First%20Meeting%20Script.md)
 - [x] [System Requirements](https://github.com/software-engineering-utfpr/documentation/blob/master/03.%20System%20Requirements.md)
 - [x] [EAP](https://github.com/software-engineering-utfpr/documentation/blob/master/04.%20EAP.md)
-- [ ] [Activy List](https://github.com/software-engineering-utfpr/documentation/blob/master/05.%20Activity%20List.md)
+- [ ] [Activity List](https://github.com/software-engineering-utfpr/documentation/blob/master/05.%20Activity%20List.md)
